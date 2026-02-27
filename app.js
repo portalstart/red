@@ -90,7 +90,7 @@ function renderLogin() {
     app.innerHTML = `
         <div class="auth-container">
             <div class="card animate-fade">
-                <div class="logo">Estudiantil</div>
+                <div class="logo">La Red</div>
                 <form id="login-form">
                     <div class="input-group">
                         <label>Email Estudiantil</label>
@@ -468,3 +468,4 @@ function showUploadModal() {
 
 // Iniciar aplicación
 document.addEventListener('DOMContentLoaded', init);
+
